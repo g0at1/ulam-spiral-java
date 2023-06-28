@@ -25,3 +25,6 @@ The Ulam Spiral is a visualization technique used in number theory. It is named 
 
 ## Contributing
 Contributions to this project are welcome! If you have any ideas, suggestions, or bug reports, please submit an issue or a pull request on the GitHub repository.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
